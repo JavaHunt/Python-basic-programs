@@ -16,3 +16,6 @@ This Folder contains 15 basic programs in python
 13) Program to Print ASCII value of a character
 14) Program for Sum of squares of first n natural Numbers
 15) Program for Sum of Cubes of first n natural Numbers
+
+Code was written in more than 1 method for some programs. 
+Check them and understand the difference
